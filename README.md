@@ -1,10 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/Shikhar18991282">
-  <img align="left" alt="Shikhar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://github.com/shikhar321"> My Github Account
+  <img align="left" alt="Shikhar's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shikhar-gupta-18aa23204/">
+
+<a href="https://www.linkedin.com/in/shikhar-gupta-18aa23204/"> My LinkedIn Account
   <img align="left" alt="Shikhar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://www.hackerrank.com/shikhar321"> My Hackerrank Account
+  <img align="left" alt="Shikhar's Hackerrank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" />
+</a>
+
+<a href="https://twitter.com/Shikhar18991282"> My twitter Account
+  <img align="left" alt="Shikhar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shikhar321.shikhar321)
 
