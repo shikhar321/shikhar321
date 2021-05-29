@@ -68,6 +68,5 @@ I am always curious about things and enjoy learning. I like to solve problems an
 <br>
 <img align="left" img height="180" src="https://github-readme-stats.vercel.app/api?username=shikhar321&show_icons=true&theme=gotham" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar321&hide=TeX&layout=compact" />
 
-<code><img align="left" src="https://github-profile-trophy.vercel.app/?username=shikhar321" alt="shikhar321" />
-
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=shikhar321" alt="shikhar321" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar321&" alt="shikhar321" />
