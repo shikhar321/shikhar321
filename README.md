@@ -4,7 +4,7 @@
 </a>
 
 
-  <img align="right" img height="70" alt="Shikhar's Github" src="https://visitor-badge.glitch.me/badge?page_id=shikhar321.shikhar321" />
+  <img align="right" img height="40" alt="Shikhar's Github" src="https://visitor-badge.glitch.me/badge?page_id=shikhar321.shikhar321" />
 
 <a href="https://www.linkedin.com/in/shikhar-gupta-18aa23204/"> My LinkedIn Account
   <img align="left" alt="Shikhar's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
