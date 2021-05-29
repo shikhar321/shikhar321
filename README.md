@@ -11,8 +11,13 @@
 </a>
 
 <a href="https://www.hackerrank.com/shikhar321"> My Hackerrank Account
-  <img align="left" alt="Shikhar's Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <img align="left" alt="Shikhar's Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white?"/>
 </a>
+
+<a href="https://www.codechef.com/users/shikhar321"> My Codechef Account
+  <img height="25" img align="left" alt="Shikhar's Codechef" src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"/>
+</a>
+
 
 <a href="https://twitter.com/Shikhar18991282"> My twitter Account
   <img align="left" alt="Shikhar | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -60,5 +65,9 @@ I am always curious about things and enjoy learning. I like to solve problems an
 <br>
 <br>
 **📈 My GitHub Stats:-**
-
+<br>
 <img align="left" img height="180" src="https://github-readme-stats.vercel.app/api?username=shikhar321&show_icons=true&theme=gotham" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar321&hide=TeX&layout=compact" />
+
+<code><img align="left" src="https://github-profile-trophy.vercel.app/?username=shikhar321" alt="shikhar321" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar321&" alt="shikhar321" />
