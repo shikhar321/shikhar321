@@ -61,4 +61,4 @@ I am always curious about things and enjoy learning. I like to solve problems an
 <br>
 📈 My GitHub Stats:-
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shikhar321&show_icons=true&theme=gotham" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar321&hide=TeX&layout=compact" />
+<img align="left" img height="10" src="https://github-readme-stats.vercel.app/api?username=shikhar321&show_icons=true&theme=gotham" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar321&hide=TeX&layout=compact" />
