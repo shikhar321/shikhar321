@@ -44,7 +44,14 @@
 
 Hi, I'm **Shikhar Gupta**, A second-year Computer Science undergraduate at Chandigarh University.
 
-I am always curious about things and enjoy learning. I like to solve problems and fix errors. I am a detail-oriented person and I keep my goals and tasks organized to maintain productivity. I am looking forward to implementing and polishing my skills in any opportunity that I receive.
+I believe in leveraging the power of technology to change lives for the better. I'm passionate about exploring and experimenting with new technologies to be able to positively impact every niche of human experience.
+
+I am interested in Web Development and Programming and want to explore these fields and other fields in Computer Science to the fullest.
+
+There is a lot to learn , more problems to brainstorm and code , many bugs to fix , pull requests to make , data to ponder on and yet more to build upon . Happy to connect , work and learn with all the amazing people out here on LinkedIn.
+
+Skills: Python, Java, C , C++ , GitHub and Data Science .
+Interests: Data Science , Open Source , Artificial Intelligence , Python Libraries , Web Development .
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
