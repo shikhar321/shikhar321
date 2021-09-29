@@ -31,7 +31,7 @@
   <img align="left" alt="Shikhar Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/14892101/shikhar-gupta"> My Blog
+<a href="https://medium.com/@shikhar_gupta"> My Blog
   <img align="left" alt="Shikhar Medium Blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
