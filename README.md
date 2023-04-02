@@ -27,7 +27,7 @@
   <a href="https://www.codechef.com/users/shikhar321" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
+      src="https://cp-logo.vercel.app/codechef/shikhar321?logo=true"
       alt="Shikhar's CodeChef"
          >
   </a>
@@ -42,7 +42,7 @@
   <a href="https://leetcode.com/Shikhargupta321/" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
+      src="https://cp-logo.vercel.app/leetcode/Shikhargupta321?logo=true"
       alt="Shikhar's LeetCode"
     >
   </a>
@@ -99,4 +99,4 @@
   <img width="47%" src="https://streak-stats.demolab.com?user=shikhar321&theme=onedark" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shikhar321&show_icons=true&theme=onedark" />
 </div>
-<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptashikhar321&layout=compact&theme=onedark" />
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar321&layout=compact&theme=onedark" />
