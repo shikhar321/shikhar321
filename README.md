@@ -29,6 +29,8 @@
       height="25"
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
       alt="Shikhar's CodeChef"
+         >
+  </a>
 <!--     >
   <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
     <img
