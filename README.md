@@ -60,12 +60,12 @@
 <div>
   <img width="45%" src="https://leetcard.jacoblin.cool/Shikhargupta321?theme=nord" />
 </div>
-
+<!-- 
 <h3>GeeksForGeeks Stats:</h3>
 
 <div>
   <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=guptashikhar321" />
-</div>
+</div> -->
 
 <h3>Languages and Tools:</h3>
 
