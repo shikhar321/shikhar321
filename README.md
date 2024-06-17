@@ -3,7 +3,7 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=rahullgupta&style=for-the-badge" />
 
 <p>
-  I'm Shikhar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
+  I'm Shikhar Gupta, a Computer Science Graduate from Chandigarh University. 
   
   I am interested in Web Development and Programming and want to explore these fields and other fields in Computer Science to the fullest.
 
