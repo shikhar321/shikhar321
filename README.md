@@ -16,21 +16,6 @@
   Interests: Open Source, Data Science, Machine Learning.
 </p>
 
-<div>
-  <!-- <!-- <a href="https://www.linkedin.com/in/shikhargupta321/" target="_blank"> -->
-    <img
-      height="25"
-      <!-- alt="Shikhar's LinkedIn" -->
-      <!-- src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" -->
-    > -->
-  <!-- <a href="mailto: guptashikhar321@gmail.com" target="_blank">
-    <img
-      height="25"
-      alt="Shikhar's Gmail "
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    > -->
-  </a>
-</div>
 <h3>Languages and Tools:</h3>
 
 <img
